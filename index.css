@@ -74,6 +74,11 @@ ul {
     text-shadow: 1px 1px 1px hsla(0, 0%, 0%, 0.3);
 }
 
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
 
 
 
